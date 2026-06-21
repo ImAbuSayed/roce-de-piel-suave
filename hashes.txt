@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Roce de 
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T04:18:10.310883 | `v1` | `1b8cadd76e4a00a205102afeadb45c1ec197a3d16b85ba942cce8d514e29087d` | `0cc3b0361c7d9e5e2294e3dadbbf1378c62286cecee7b79da701eecdde08d1b8` | `2026-06-22_roce-de-piel-suave-v1.txt` |
+| 2026-06-22T04:23:09.635840 | `v2` | `c2975f5721a7cf9278ad338e6a564ca237c78c4225349a2f5941f9da5734b073` | `a6689e0cf8dfc84b4ce568c5ff71c7eb5b93c4acdb2f72e219793760ba2e5ea2` | `2026-06-22_roce-de-piel-suave-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*

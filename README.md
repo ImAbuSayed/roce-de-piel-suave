@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-piel-suave/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Roce de piel suave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-piel-suave/) |
+| **Get License** | [License this song: Roce de piel suave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-piel-suave/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `1b8cadd76e4a00a205102afeadb45c1ec197a3d16b85ba942cce8d514e29087d` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `c2975f5721a7cf9278ad338e6a564ca237c78c4225349a2f5941f9da5734b073` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
