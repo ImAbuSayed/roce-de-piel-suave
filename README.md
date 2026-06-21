@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Roce de piel suave |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-de-piel-suave/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Roce de piel suave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-piel-suave/) |
+| **Get License** | [Get a Licensing Quote for Roce de piel suave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-de-piel-suave/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Roce de piel suave, fuego en la oscuridad
-> Dime si esta noche te dejas llevar, mujer
-> Tus ojos me llaman pidiendo velocidad
-> Bailando en la disco, buscando el amanecer
+> Roce de piel suave, me pierdo en tu calor
+> Tus labios son mi vicio, me queman sin dolor
+> Roce de piel suave, no quiero despertar
+> Esta noche es nuestra, no la dejes escapar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
