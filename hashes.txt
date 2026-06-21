@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce de piel suave
+
+This log tracks the cryptographic history and versioning for the song **Roce de piel suave** (roce-de-piel-suave).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T04:18:10.310883 | `v1` | `1b8cadd76e4a00a205102afeadb45c1ec197a3d16b85ba942cce8d514e29087d` | `0cc3b0361c7d9e5e2294e3dadbbf1378c62286cecee7b79da701eecdde08d1b8` | `2026-06-22_roce-de-piel-suave-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
