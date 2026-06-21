@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Roce de piel suave, fuego en la oscuridad
+> Dime si esta noche te dejas llevar, mujer
+> Tus ojos me llaman pidiendo velocidad
+> Bailando en la disco, buscando el amanecer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
